@@ -1,0 +1,6 @@
+cloud_config_new_launch.yaml
+cloud_config_restore_launch.yaml
+.password
+storage
+.certs
+*.tape
